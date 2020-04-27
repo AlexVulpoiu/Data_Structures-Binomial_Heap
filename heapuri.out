@@ -1,0 +1,10 @@
+minimul este 0
+minimul este 3
+minimul este 11
+
+heap1: 1 8 2 6 10 3 
+
+heap2: 15 11 14 
+
+heap-uri interclasate: 15 1 8 2 11 14 6 10 3 
+
